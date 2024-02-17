@@ -11,28 +11,28 @@ title                    : "Kyle Wang / Portfolio"
 title_separator          : "-"
 name                     : &name "Kyle Wang"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://kyleearth.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "kyleearth/kyleearth.github.io"
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Kyle Wang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Computer Science Ph.D. Student"
   pronouns         : # example: "she/her"
-  location         : "Location"
-  orcid            : "http://orcid.org/yourorcidurl"
-  employer         :
-  email            :  
+  location         : "New York Metropolitan Area"
+  orcid            : "https://orcid.org/0000-0003-0308-6033"
+  employer         : "University of Delaware"
+  email            : "kylewang@udel.edu"
   uri              :
 
   # Manuscript repositories
   arxiv            : # "https://arxiv.org/" # Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"         # Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.com/citations?user=YB8unhEAAAAJ&hl=en"         # Update with the correct link to your profile
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Qile-Wang-2"
 
   # Social media
   bitbucket        :
@@ -41,22 +41,22 @@ author:
   facebook         :
   flickr           :
   foursquare       :
-  github           : "academicpages"
+  github           : "kyleearth"
   goodreads        :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/kyleearth"
   kaggle           : # "kaggleusername"
-  mastodon         : "mastodonhandle"
+  mastodon         : # "mastodonhandle"
   medium           : # "add medium profile url here"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   wikipedia        :
