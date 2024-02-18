@@ -21,14 +21,18 @@ Research & Work Experience
   * ExxonMobil - EMTEC
   * Supervisor: Pinzhi Liu, PhD
 
-* 2020 - 2022: Research Assistant
+* 2020 - 2022: Graduate Research Assistant
   * [HCI Lab](https://sites.udel.edu/hci-lab/), University of Delaware
   * Advisor:: Professor Roghayeh Barmaki
 
-* 2019 - 2020: Research Assistant
+* 2019 - 2020: Graduate Research Assistant
   * University of Southern California
   * Advisor: Professor Mayank Kejriwal
  
 * 2019 - 2020: Data Science Intern
   * Kaspect
   * Supervisor: Brian Cohn, PhD, Kenneth Hayashida, MD
+ 
+* 2016 - 2017: Undergraduate Research Assistant
+  * University of Delaware
+  * Advisor: Professor Dominique Guillot
