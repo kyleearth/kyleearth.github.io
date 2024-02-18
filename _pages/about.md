@@ -12,18 +12,23 @@ I am pursuing a Ph.D. at the [University of Delaware](www.udel.edu), specializin
 Education
 ======
 * B.S. in Mathematics and Economics, University of Delaware, 2018
-* M.S. in Analytic, University of Southern California, 2020
+* M.S. in Analytics, University of Southern California, 2020
 * Ph.D in Computer Sciences University of Delaware, 2025 (expected)
 
-Work experience
+Research & Work Experience
 ======
 * Summer 2022: Research Intern
-  * ExxonMobil
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * ExxonMobil - EMTEC
+  * Supervisor: Pinzhi Liu, PhD
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* 2020 - 2022: Research Assistant
+  * [HCI Lab](https://sites.udel.edu/hci-lab/), University of Delaware
+  * Advisor:: Professor Roghayeh Barmaki
+
+* 2019 - 2020: Research Assistant
+  * University of Southern California
+  * Advisor: Professor Mayank Kejriwal
+ 
+* 2019 - 2020: Data Science Intern
+  * Kaspect
+  * Supervisor: Brian Cohn, PhD, Kenneth Hayashida, MD
