@@ -7,7 +7,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Kyle Wang / Portfolio"
+title                    : "Kyle Wang / Home"
 title_separator          : "-"
 name                     : &name "Kyle Wang"
 description              : &description "personal description"
