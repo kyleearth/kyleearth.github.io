@@ -23,7 +23,7 @@ author:
   pronouns         : # example: "she/her"
   location         : "New York Metropolitan Area"
   orcid            : "https://orcid.org/0000-0003-0308-6033"
-  employer         : "University of Delaware"
+  employer         : #"University of Delaware"
   email            : "kylewang@udel.edu"
   uri              :
 
