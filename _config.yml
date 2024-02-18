@@ -18,7 +18,7 @@ repository               : "kyleearth/kyleearth.github.io"
 # Site Author
 author:
   name             : "Kyle Wang"
-  avatar           : "profile_kw.png"
+  avatar           : "images/profile_kw.png"
   bio              : "Computer Science Ph.D. Student"
   pronouns         : # example: "she/her"
   location         : "New York Metropolitan Area"
