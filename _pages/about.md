@@ -6,14 +6,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. student at the [University of Delaware](www.udel.edu), specializing in Human-Computer Interaction (HCI) with
-expertise in data science. My research primarily focuses on enhancing the experience of data generation from
-online social networks and evaluating state-of-the-art technology with Large Language Models (LLMs)
-
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
+I am pursuing a Ph.D. at the [University of Delaware](www.udel.edu), specializing in Human-Computer Interaction (HCI) with a focus on data science. My research centers on enhancing the data generation experience from online social networks and evaluating advanced technology using Large Language Models (LLMs). Under the guidance of Dr. Matthew Maureillo at [Sensify Lab](https://sensifylab.cis.udel.edu/), I am currently involved in the SMIDGen project. Recent qualitative studies leverage vast amounts of online social network data to examine user-technology interactions. However, existing dataset generation methods are labor-intensive and challenging to reproduce. This project aims to develop an intuitive application to aid researchers in collecting, filtering, and interpreting data. The overarching goal is to investigate how such tools can enhance data quality and the reproducibility of insights."
