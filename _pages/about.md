@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Mathematics and Economics, University of Delaware, 2018
 * M.S. in Analytics, University of Southern California, 2020
-* Ph.D in Computer Sciences University of Delaware, 2025 (expected)
+* Ph.D in Computer Sciences University of Delaware, 2026 (expected)
 
 Research & Work Experience
 ======
