@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. student at the [University of Delaware](www.udel.edu), specializing in Human-Computer Interaction with a focus on data science. My research explores how to improve data collection, annotation, and insight extraction from online social networks, using technologies like Large Language Models (LLMs). I work with Dr. Matthew Maureillo in the [Sensify Lab](https://sensifylab.cis.udel.edu/), leading the SMIDGen project, an effort to build intuitive tools that help researchers collect, filter, and interpret data to improve insight quality and reproducibility.
+I am a Ph.D. student at the [University of Delaware](https://www.udel.edu/), specializing in Human-Computer Interaction with a focus on data science. My research explores how to improve data collection, annotation, and insight extraction from online social networks, using technologies like Large Language Models (LLMs). I work with Dr. Matthew Maureillo in the [Sensify Lab](https://sensifylab.cis.udel.edu/), leading the SMIDGen project, an effort to build intuitive tools that help researchers collect, filter, and interpret data to improve insight quality and reproducibility.
 
 
 Education
