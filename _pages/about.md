@@ -17,6 +17,10 @@ Education
 
 Research & Work Experience
 ======
+* Summer 2025: Research Intern
+  * Dow Chemical Company - AAIH
+  * Supervisor: Justin Kauhl
+    
 * Summer 2022: Research Intern
   * ExxonMobil - EMTEC
   * Supervisor: Pinzhi Liu, PhD
