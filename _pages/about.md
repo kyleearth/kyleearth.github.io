@@ -11,9 +11,10 @@ I am a Ph.D. student at the [University of Delaware](https://www.udel.edu/), spe
 
 Education
 ======
-* B.S. in Mathematics and Economics, University of Delaware, 2018
-* M.S. in Analytics, University of Southern California, 2020
 * Ph.D in Computer Sciences University of Delaware, 2026 (expected)
+* M.S. in Analytics, University of Southern California, 2020
+* B.S. in Mathematics and Economics, University of Delaware, 2018
+
 
 Research & Work Experience
 ======
