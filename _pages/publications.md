@@ -10,7 +10,7 @@ author_profile: true
   Comprehensive and updated articles can be found on <u><a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-• **Wang, Q.**, Erqsous, M., Khatiwada, P., Karwankar, A., Alhassan, F. M., Chandrasekaran, A., ... & Mauriello, M. L. (2025, June). Leveraging Large Language Models for Review Classification and Rating Estimation of Mental Health Applications. In Proceedings of the International AAAI Conference on Web and Social Media (Vol. 19, pp. 2017-2029). <u><a href="https://doi.org/10.1609/icwsm.v19i1.35916">Link</a></u>
+• **Wang, Q.**, Erqsous, M., Khatiwada, P., Karwankar, A., Alhassan, F. M., Chandrasekaran, A., Abraham, B., Lovell, F., Ngo, A. A., & Mauriello, M. L. (2025). Leveraging Large Language Models for Review Classification and Rating Estimation of Mental Health Applications. In Proceedings of the International AAAI Conference on Web and Social Media (Vol. 19, pp. 2017-2029). <u><a href="https://doi.org/10.1609/icwsm.v19i1.35916">Link</a></u>
 
 • **Wang, Q.**, Erqsous, M., Barner, K. E., & Mauriello, M. L. (2025). LATA: A Pilot Study on LLM-Assisted Thematic Analysis of Online Social Network Data Generation Experiences. Proceedings of the ACM on Human-Computer Interaction, 9(2), 1-28. <u><a href="https://doi.org/10.1145/3711022">Link</a></u>
 
