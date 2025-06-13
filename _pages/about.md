@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am pursuing a Ph.D. at the [University of Delaware](www.udel.edu), specializing in Human-Computer Interaction (HCI) with expertise on data science. My research primarily focuses on enhancing the experience of data collection from online social networks and evaluating state-of-the-art technologies such as Large Language Models (LLMs) for use in insight generation. I am currently working under the guidance of Dr. Matthew Maureillo at [Sensify Lab](https://sensifylab.cis.udel.edu/) in the SMIDGen project. This project aims to develop an intuitive application to aid researchers in collecting, filtering, and interpreting data. The overarching goal is to investigate how such tools can enhance data quality and the reproducibility of insights.
+I am a Ph.D. student at the [University of Delaware](www.udel.edu), specializing in Human-Computer Interaction with a focus on data science. My research explores how to improve data collection, annotation, and insight extraction from online social networks, using technologies like Large Language Models (LLMs). I work with Dr. Matthew Maureillo in the [Sensify Lab](https://sensifylab.cis.udel.edu/), leading the SMIDGen project, an effort to build intuitive tools that help researchers collect, filter, and interpret data to improve insight quality and reproducibility.
 
 
 Education
@@ -23,7 +23,7 @@ Research & Work Experience
     
 * Summer 2022: Research Intern
   * ExxonMobil - EMTEC
-  * Supervisor: Pinzhi Liu, PhD
+  * Supervisor: Pinzhi Liu
 
 * 2020 - 2022: Graduate Research Assistant
   * [HCI Lab](https://sites.udel.edu/hci-lab/), University of Delaware
@@ -31,12 +31,12 @@ Research & Work Experience
 
 * 2019 - 2020: Graduate Research Assistant
   * University of Southern California
-  * Advisor: Professor Mayank Kejriwal
+  * Advisor: Mayank Kejriwal
  
 * 2019 - 2020: Data Science Intern
   * Kaspect
-  * Supervisor: Brian Cohn, PhD, Kenneth Hayashida, MD
+  * Supervisor: Brian Cohn, Kenneth Hayashida
  
 * 2016 - 2017: Undergraduate Research Assistant
   * University of Delaware
-  * Advisor: Professor Dominique Guillot
+  * Advisor: Dominique Guillot
